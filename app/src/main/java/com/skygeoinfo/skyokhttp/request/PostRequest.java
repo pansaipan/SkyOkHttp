@@ -1,6 +1,7 @@
 package com.skygeoinfo.skyokhttp.request;
 
-import com.skygeoinfo.skyhttp.model.PostParams;
+
+import com.skygeoinfo.skyokhttp.model.PostParams;
 
 import java.io.File;
 import java.net.FileNameMap;

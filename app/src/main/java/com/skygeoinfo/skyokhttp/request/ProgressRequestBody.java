@@ -1,6 +1,7 @@
 package com.skygeoinfo.skyokhttp.request;
 
-import com.skygeoinfo.skyhttp.SkyHttp;
+
+import com.skygeoinfo.skyokhttp.SkyHttp;
 
 import java.io.IOException;
 
